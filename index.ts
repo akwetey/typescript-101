@@ -1,2 +1,1 @@
-let foo: string = "test";
-console.log(foo);
+const el: HTMLElement = document.getElementById("app")!;

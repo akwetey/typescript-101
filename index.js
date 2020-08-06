@@ -1,3 +1,2 @@
 "use strict";
-var foo = "test";
-console.log(foo);
+var el = document.getElementById("app");
